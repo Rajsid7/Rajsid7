@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rajsid7
+- 👀 I’m interested in learning about business analytics and how data can help me be more efficient in business and my career.
+- 🌱 I’m currently learning python, sql, hadoop, R, Mapreduce, tableau, pmp certification, advanced excel, data visualization techniques, ml etc
+- 💞️ I’m looking to collaborate on projects that involve either project management, ui/ux development, website development, and marketing(google analytics)
+- 📫 The best way to get a hold of me is via email at Rajpritsidhu@gmail.com
