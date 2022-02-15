@@ -9,3 +9,5 @@
 - Thank you,
 
 Raj Sidhu
+
+I have also posted a python script I created in class that takes an input from the user and lets the user know whether the word was a palindrome or not.
